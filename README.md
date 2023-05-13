@@ -8,6 +8,6 @@
 - Scraped  3000  recipes from Simple Recipes(https://www.simplyrecipes.com). 
 - Parsed recipe ingredients and created word embeddings using Word2Vec and TF-IDF.
 - The model achieves its best results through a combined approach: 1) text encoding and comparison of semantic similarity 2) prescribed rules           established experimentally
-- Built app with Streamlit (http://192.168.0.123:8501)
+- Built app with Streamlit (______________)
 
 Adding jupiter notebook with feature engineering and model experiments in progress. 
